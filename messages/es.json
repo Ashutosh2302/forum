@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "feed": "Foro",
+    "saved": "Publicaciones guardadas",
+    "course1": "Curso de TS",
+    "course2": "Curso de React"
+  },
+  "feed": {
+    "title": "Foro del curso",
+    "loading": "Cargando publicaciones…",
+    "empty": "Aún no hay publicaciones en este curso."
+  },
+  "saved": {
+    "title": "Publicaciones guardadas",
+    "loading": "Cargando publicaciones guardadas…",
+    "empty": "Aún no has guardado ninguna publicación. Explora el foro para comenzar."
+  },
+  "post": {
+    "save": "Guardar",
+    "unsave": "Guardado",
+    "saving": "Guardando…",
+    "saves": "{count, plural, =1 {1 guardado} other {# guardados}}",
+    "remove": "Eliminar",
+    "removing": "Eliminando…"
+  },
+  "pagination": {
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "page": "Página {page} de {total}"
+  },
+  "error": {
+    "generic": "Algo salió mal. Por favor, inténtalo de nuevo.",
+    "forbidden": "No estás inscrito en este curso."
+  }
+}

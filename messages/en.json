@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "feed": "Feed",
+    "saved": "Saved Posts",
+    "course1": "TS Course",
+    "course2": "React Course"
+  },
+  "feed": {
+    "title": "Course Feed",
+    "loading": "Loading posts…",
+    "empty": "No posts in this course yet."
+  },
+  "saved": {
+    "title": "Saved Posts",
+    "loading": "Loading saved posts…",
+    "empty": "You haven't saved any posts yet. Browse the feed to get started."
+  },
+  "post": {
+    "save": "Save",
+    "unsave": "Saved",
+    "saving": "Saving…",
+    "saves": "{count, plural, =1 {1 save} other {# saves}}",
+    "remove": "Remove",
+    "removing": "Removing…"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page {page} of {total}"
+  },
+  "error": {
+    "generic": "Something went wrong. Please try again.",
+    "forbidden": "You are not enrolled in this course."
+  }
+}
